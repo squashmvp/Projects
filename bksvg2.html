@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400"
+style="display: inline-block; vertical-align: middle;">
+  <title>BK</title>
+  <desc>Picture of an icon.</desc>
+  <defs>
+    <filter id="spotlight1">
+      <feSpecularLighting result="spotlight" specularConstant="1.2" specularExponent="45" lighting-color="purple">
+        <fePointLight z="350"/>
+      </feSpecularLighting>
+      <feComposite in="StrokePaint" in2="spotlight" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="light" />
+    </filter>
+    <filter id="spotlight2">
+      <feSpecularLighting result="spotlight" specularConstant="0.4" specularExponent="60" lighting-color="lightblue">
+        <fePointLight z="150"/>
+      </feSpecularLighting>
+      <feComposite in="StrokePaint" in2="spotlight" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="light" />
+    </filter>
+    <filter id="blur" x="0" y="0">
+      <feGaussianBlur in="StrokePaint" stdDeviation="0.75" />
+    </filter>
+  </defs>
+  <rect width="400" height="400"
+  style="fill:rgb(23, 24, 175); stroke: black; stroke-width: 3;" />
+  <g style="stroke: gold; stroke-width: 2.5; font-family: sans-serif; font-size:168">
+    <circle cx="" cy="" r="500" fill="#ffffff" filter="url(#spotlight1)">
+      <animateMotion dur="13s" repeatCount="indefinite">
+        <mpath xlink:href="#thepath"></mpath>
+      </animateMotion>
+    </circle>
+    <text x="224" y="170" fill="mango"
+    style="stroke: stroke-width: 0; font-family: sans-serif; font-size:100; letter-spacing: -0.656rem;" filter="url(#blur)">net</text>
+    <text x="140" y="170" fill="red" rotate="-30">K</text>
+    <text x="0" y="170" fill="blue">B</text>
+  </g>
+  <path id="thepath" d="M 100 100 L 350 100" stroke="none" fill="none" />
+  <circle cx="" cy="" r="500" fill="#ffffff" filter="url(#spotlight2)">
+    <animateMotion dur="13s" repeatCount="indefinite">
+      <mpath xlink:href="#thepath"></mpath>
+    </animateMotion>
+  </circle>
+</svg>
