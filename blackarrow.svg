@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" width="11cm" height="11cm"
+viewBox="0 0 600 600" version="1.1">
+  <title>Black Arrow</title>
+  <desc>An arrow of black</desc>
+  <path id="LeftUpArrow" d="M 340 350
+    C 360 350 360 350 360 370
+    C 360 390 360 390 330 390
+    L 200 390
+    C 180 390 180 390 180 350
+    L 180 150
+    c 0 -20 0 -20 -20 -20
+    l -40 0
+    C 100 130 100 130 120 112
+    L 175 63
+    C 195 45 195 45 215 63
+    L 270 112
+    C 290 130 290 130 270 130
+    L 240 130
+    C 220 130 220 130 220 150
+    L 220 340
+    c 0 10 0 10 10 10 "
+  style="fill: #71aa8a;"/>
+</svg>
