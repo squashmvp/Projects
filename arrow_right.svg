@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11cm" height="11cm" viewBox="0 0 400 400" version="1.1">
+  <title>Right Arrow</title>
+  <desc>An Arrow of Right</desc>
+  <path id="Arrow" d="M 10 275
+    L 10 175
+    C 10 160 10 160 25 160
+    L 230 160
+    C 245 160 245 160 245 145
+    L 245 105
+    C 245 90 246 90 260 105
+    L 350 200
+    C 375 225 375 225 350 250
+    L 260 345
+    C 245 360 246 360 245 345
+    L 245 315
+    C 245 295 245 295 230 295
+    L 25 295
+    C 10 295 10 295 10 275"
+  style="fill: #71aa8a;"/>
+</svg>

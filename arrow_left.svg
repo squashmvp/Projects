@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11cm" height="11cm" viewBox="0 0 400 400" version="1.1">
+  <title>Left Arrow</title>
+  <desc>An Arrow of Left</desc>
+  <path id="Arrow" d="M 390 275
+    L 390 175
+    C 390 160 390 160 375 160
+    L 170 160
+    C 155 160 155 160 155 145
+    L 155 105
+    C 155 90 156 90 140 105
+    L 50 200
+    C 25 225 25 225 50 250
+    L 140 345
+    C 155 360 154 360 155 345
+    L 155 315
+    C 155 295 155 295 170 295
+    L 375 295
+    C 390 295 390 295 390 275"
+  style="fill: #71aa8a;"/>
+</svg>

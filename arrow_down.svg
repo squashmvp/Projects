@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11cm" height="11cm" viewBox="0 0 400 400" version="1.1">
+  <title>Down Arrow</title>
+  <desc>An Arrow of Down</desc>
+  <path id="Arrow" d="M 275 10
+    L 175 10
+    C 160 10 160 10 160 25
+    L 160 230
+    C 160 245 160 245 145 245
+    L 105 245
+    C 90 245 90 246 105 260
+    L 200 350
+    C 225 375 225 375 250 350
+    L 345 260
+    C 360 245 360 246 345 245
+    L 315 245
+    C 295 245 295 245 295 230
+    L 295 25
+    C 295 10 295 10 275 10"
+  style="fill: #71aa8a;"/>
+</svg>

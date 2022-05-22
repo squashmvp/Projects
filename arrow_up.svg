@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11cm" height="11cm" viewBox="0 0 400 400" version="1.1">
+  <title>Up Arrow</title>
+  <desc>An Arrow of Up</desc>
+  <path id="Arrow" d="M 285 390
+    L 175 390
+    C 160 390 160 390 160 375
+    L 160 170
+    C 160 155 160 155 145 155
+    L 105 155
+    C 90 155 90 154 105 140
+    L 200 50
+    C 225 25 225 25 250 50
+    L 345 140
+    C 360 155 360 154 345 155
+    L 315 155
+    C 300 155 300 155 300 170
+    L 300 375
+    C 300 390 300 390 285 390"
+  style="fill: #71aa8a;"/>
+</svg>
